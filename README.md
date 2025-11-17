@@ -1,2 +1,6 @@
-![UltimatePancake's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgaetani&show_icons=true&rank_icon=github&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgaetani&layout=compact&theme=dark)](https://github.com/pgaetani/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pgaetani" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pgaetani&layout=compact&langs_count=8&card_width=320" />
+</a>
