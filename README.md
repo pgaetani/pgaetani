@@ -1,6 +1,2 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pgaetani&theme=synthwave" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pgaetani&layout=compact&langs_count=8&card_width=320&theme=synthwave" />
-</a>
+<img height=200 align="center" src="./profile/stats.svg" />
+<img height=200 align="center" src="./profile/top-langs.svg" />
